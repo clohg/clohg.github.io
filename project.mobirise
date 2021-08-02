@@ -115,6 +115,9 @@
             },
             ".row": {
               "justify-content": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#40b0bf"
             }
           },
           "_name": "features1",
