@@ -708,5 +708,36 @@ a {
   transition: color 0.6s;
 }
 .cid-sEUVHYtn8H {
-  background-image: url("../../../assets/images/background7.jpg");
+  background-color: #ffffff;
+}
+.cid-sEUVHYtn8H .mbr-section-title {
+  color: #40b0bf;
+}
+.cid-sEV0zXruoL {
+  padding-top: 0rem;
+  padding-bottom: 9rem;
+  background-color: #ffffff;
+}
+@media (min-width: 1500px) {
+  .cid-sEV0zXruoL .container {
+    max-width: 1400px;
+  }
+}
+.cid-sEV0zXruoL .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-sEV0zXruoL .card-wrapper {
+  margin-top: 3rem;
+}
+.cid-sEV0zXruoL .row {
+  justify-content: center;
+}
+.cid-sEV2hysh5c {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
